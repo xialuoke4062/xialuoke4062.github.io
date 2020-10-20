@@ -1,0 +1,30 @@
+var data = [{
+    "nodes":[{
+        "name": "Epilepsy_and_sudden_death:_notes_from_George_Washington's_diaries_on_the_illness_and_death_of_Martha_Parke-Custis_(1756-1773)",
+        "group": 1
+    },  {
+        "name": "The_sudden_death_of_Patsy_Custis,_or_George_Washington_on_sudden_unexplained_death_in_epilepsy",
+        "group":1 
+    },  {
+        "name": "Sudden_unexpected_death_in_epilepsy:_Current_knowledge_and_future_directions",
+        "group":1
+    },  {
+        "name": "Cardiac_causes_of_sudden_unexpected_death_in_children_and_their_relationship_to_seizures_and_syncope:_Genetic_testing_for_cardiac_electropathies",
+        "group": 1
+    },  {
+        "name": "Cases_of_diseases_of_the_heart_accompanied_with_pathological_observations",
+        "group": 1
+    },  {
+        "name":"Observations_on_some_cases_of_permanently_slow_pulse",
+        "group":1
+    }],
+    "links": [{
+        "source": 5,
+        "target": 4,
+        "value": 1
+    },  {
+        "source": 4,
+        "target": 5,
+        "value": 1
+    }]
+}]
